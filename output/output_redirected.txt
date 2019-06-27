@@ -1,0 +1,176 @@
+Add training data:0
+intent        greeting
+sentence    สวัสดีครับ
+Name: 0, dtype: object
+removed No Vocabs
+['สวัสดี', 'ครับ']
+Add training data:1
+intent           ask_price_calculation
+sentence    คิดราคาค่าขนส่งพัสดุยังไง 
+Name: 1, dtype: object
+removed No Vocabs
+['คิดราคา', 'ค่าขนส่ง', 'พัสดุ', 'ยังไง', ' ']
+Add training data:2
+intent                          ask_duration
+sentence    พัสดุมีระยะเวลาในการจัดส่งกี่วัน
+Name: 2, dtype: object
+removed No Vocabs
+['พัสดุ', 'มี', 'ระยะเวลา', 'ใน', 'การจัดส่ง', 'กี่', 'วัน']
+Add training data:3
+intent                                ask_compensation
+sentence    ถ้าส่งพัสดุไปแล้วเสียหายจะได้รับการชดเชยปะ
+Name: 3, dtype: object
+removed No Vocabs
+['ถ้า', 'ส่ง', 'พัสดุ', 'ไป', 'แล้ว', 'เสียหาย', 'จะ', 'ได้รับ', 'การ', 'ชดเชย', 'ปะ']
+Add training data:4
+intent       greeting
+sentence    สวัสดีค่ะ
+Name: 4, dtype: object
+removed No Vocabs
+['สวัสดี', 'ค่ะ']
+Add training data:5
+intent         ask_price_calculation
+sentence    ถ้าจะส่งพัสดุคิดราคาไงอะ
+Name: 5, dtype: object
+removed No Vocabs
+['ถ้า', 'จะ', 'ส่ง', 'พัสดุ', 'คิดราคา', 'ไง', 'อะ']
+Add training data:6
+intent                    ask_duration
+sentence    จะได้รับพัสดุในอีกกี่วันอะ
+Name: 6, dtype: object
+removed No Vocabs
+['จะ', 'ได้รับ', 'พัสดุ', 'ใน', 'อีก', 'กี่', 'วัน', 'อะ']
+Add training data:7
+intent                      ask_compensation
+sentence    ถ้าพัสดุุชำรุดอะจะรับผิดชอบยังไง
+Name: 7, dtype: object
+removed No Vocabs
+['ถ้า', 'พัสดุ', 'ุ', 'ชำรุด', 'อะ', 'จะ', 'รับผิดชอบ', 'ยังไง']
+Add training data:8
+intent      greeting
+sentence       Hello
+Name: 8, dtype: object
+removed No Vocabs
+['Hello']
+Add training data:9
+intent                                  ask_price_calculation
+sentence    รบกวนสอบถามหน่อยค่าส่งพัสดุต่อชิ้นราคาเท่าไหร่...
+Name: 9, dtype: object
+removed No Vocabs
+['รบกวน', 'สอบถาม', 'หน่อย', 'ค่า', 'ส่ง', 'พัสดุ', 'ต่อ', 'ชิ้น', 'ราคา', 'เท่าไหร่', 'หรอ', ' ', '?']
+Add training data:10
+intent                                 ask_duration
+sentence    พัสดุมีระยะเวลาในการจัดส่งกี่วันหรอครับ
+Name: 10, dtype: object
+removed No Vocabs
+['พัสดุ', 'มี', 'ระยะเวลา', 'ใน', 'การจัดส่ง', 'กี่', 'วัน', 'หรอ', 'ครับ']
+Add training data:11
+intent                                       ask_compensation
+sentence    ผมจะส่งจอคอมพิวเตอร์ไปให้น้อง ถ้ามันเกิดเสียหา...
+Name: 11, dtype: object
+removed No Vocabs
+['ผม', 'จะ', 'ส่ง', 'จอ', 'คอมพิวเตอร์', 'ไป', 'ให้', 'น้อง', ' ', 'ถ้า', 'มัน', 'เกิด', 'เสียหาย', 'กลางทาง', 'จะ', 'รับผิดชอบ', 'อะไร', 'ไหม']
+Add training data:12
+intent       thank_you
+sentence    ขอบคุณครับ
+Name: 12, dtype: object
+removed No Vocabs
+['ขอบคุณ', 'ครับ']
+Add training data:13
+intent            ask_tracking_number
+sentence    อยากรู้ว่าพัสดุถึงไหนแล้ว
+Name: 13, dtype: object
+removed No Vocabs
+['อยากรู้', 'ว่า', 'พัสดุ', 'ถึง', 'ไหน', 'แล้ว']
+Add training data:14
+intent      key_tracking_number
+sentence         KERPU015242393
+Name: 14, dtype: object
+removed No Vocabs
+['KERPU', '015242393']
+sample training data (in&out)
+[ 0.12944562  0.72710359 -1.98910475  0.37009317 -1.03447071  1.14642859
+  0.20120022 -0.00395963 -0.73730707 -0.03475139 -1.42971972  0.16321348
+ -0.59034032  1.50737154  2.04113694 -0.70387523 -0.86550197  1.7123929
+  0.41451626  0.29269823 -0.37208372  0.74222019 -0.54700442  1.84540951
+  1.1297991   1.08361442  0.51426055  0.32224946  0.03886805 -0.33284454
+ -1.00851911 -0.29647432  0.15435424  0.55291283  0.21800895  0.89456885
+ -1.33425134  0.37753455  0.93682495  0.21410787 -0.61771022 -0.77044168
+  0.55312273 -1.90210207  0.72928221  0.21938368  1.28092676 -0.07280734
+ -0.78557861 -0.22598192 -0.28203851  0.84677124  0.44473591 -0.21840743
+ -0.42234266 -2.41775948 -0.43560451  0.70108961 -1.24629438  1.08653808
+ -0.92454147  0.43646404  0.58006679 -1.64119154  0.47435568  0.04592648
+ -2.05751568 -0.53290407  0.42440905 -0.5420903  -0.58880382  0.70281191
+ -1.64713824  0.90154216  0.93667251 -0.75429437  0.0198989   1.1632989
+ -0.04804059  1.49135321  0.99633119 -0.87703574  0.8284193  -0.05547145
+  0.40598071  2.70205608 -1.60936952  0.11105654 -2.15553832  1.12894806
+  1.02775972  0.22848482  0.35168172 -0.39230535 -0.60598733  1.43226926
+ -0.13542496 -0.03915536 -0.8048597   0.26367906  2.12653059 -1.630476
+ -0.43586807  0.8678299  -1.64310616  0.8385238   0.40178987 -0.02100566
+ -0.27184086 -0.24342038 -0.56212705  1.10349411 -0.84647471  0.09260517
+  1.10402139  0.27220166 -1.13149142 -1.68153206  0.29244946  0.40687394
+ -1.83658278  0.52463624 -1.31329519  1.54759222  0.67367122  0.03635707
+ -1.63264009  0.74804115  0.26936764  0.86003768 -1.82253113 -0.03322615
+ -1.16804145  1.83568376  0.87531129  0.23411441 -0.93895405  0.63654351
+ -0.3509174  -0.03147244  2.03885132 -0.41344998 -0.11732443  0.93121329
+  0.74494991 -0.76516971 -0.11813829 -0.31361542  0.62488872 -0.19493994
+ -0.28392597 -2.30104947  0.51372059  0.04875313 -0.22038991 -1.22362721
+ -0.2088968  -1.10144755 -0.29843906 -0.1797356  -0.81938073 -0.09846133
+  0.06650487 -0.31280334 -0.34917462 -0.82946616  0.09543678 -0.65731832
+  0.66159     0.98986218  1.04826878  0.11539729 -1.3323313  -0.4457031
+ -1.14304426  1.23674683 -1.17841096  0.74498612  1.26494068  0.00692609
+ -0.87676494 -1.03153035 -0.17783953 -0.85215616 -0.76869934 -2.60297322
+ -0.57899388  0.94993186 -1.65378922 -1.15012938  0.16387793  1.26587011
+ -0.29784966  0.71730815  0.9138516   1.21494681  1.99032575  0.85818386
+  0.61838001 -0.1040991   0.23807031  1.25507811 -1.36616771 -1.78222984
+  0.17881954 -0.68489754  0.5384036   0.93188173  0.51596071  0.46950515
+  1.28132135  1.59194535  1.17667866 -0.80578071  1.89217977  0.57582217
+  0.37817889 -0.10364264 -0.77341801 -0.31042233 -0.15905772  1.33331734
+ -0.27621347  0.83328691  0.24857639  0.12579727 -0.40660886 -0.43309471
+  0.42477151 -0.12758028 -1.3196803  -1.53004771  0.03135117  0.0555279
+ -0.11652144 -0.98057505  0.26934849 -0.60680815  0.12601231 -0.47860326
+  0.21979907 -0.57202708 -0.72330001  0.84964781 -0.60704298  2.01251149
+  0.05430936 -0.1721999  -0.49321853  0.23620722 -0.2043277   1.16508129
+  0.77794215 -0.34521754 -0.93187702  0.60034752 -1.4856793  -0.73037744
+  0.11439242 -0.35967852  0.6777586  -0.50136426  1.07221793  1.31068313
+  0.69578223  0.37808761 -0.27125715 -0.27381518 -0.49952078 -1.20946973
+  0.7077229   0.23694989  0.90246946  0.74360433 -1.32024148  0.35739137
+ -1.37093171 -0.66506968 -0.51558188  0.51741389 -0.80898543  0.93424569
+  0.20529792  1.50375243  1.06302989 -0.75517127  0.31632099  0.17619031
+  1.27892183 -0.69902602  0.4677898   0.38313773  0.60857265 -0.55866025
+ -0.54691619  0.42998694  0.29555494  0.8950609  -0.20927586 -1.04523513]WARNING:tensorflow:From C:\Users\SirisakWongsura\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:From C:\Users\SirisakWongsura\AppData\Roaming\Python\Python37\site-packages\tflearn\objectives.py:66: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2019-03-05 11:44:33.893039: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+WARNING:tensorflow:From C:\Users\SirisakWongsura\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\ops\math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+WARNING:tensorflow:From C:\Users\SirisakWongsura\AppData\Roaming\Python\Python37\site-packages\tensorflow\python\training\saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+
+[0 0 1 0 0 0 0]
+curses is not supported on this machine (please install/reinstall curses for an optimal experience)
+สวัสดีครับ
+test:สวัสดีครับ
+removed No Vocabs
+['สวัสดี', 'ครับ']
+[{'intent': 'greeting', 'accuracy': '0.9977737', 'answer': ''}]
+เมื่อไหร่จะถึง
+test:เมื่อไหร่จะถึง
+removed No Vocabs
+['เมื่อไหร่', 'จะ', 'ถึง']
+[{'intent': 'ask_tracking_number', 'accuracy': '0.99945635', 'answer': ''}]
+สวัสดี
+test:สวัสดี
+removed No Vocabs
+['สวัสดี']
+[{'intent': 'greeting', 'accuracy': '0.9995664', 'answer': ''}]
+ฉฮ
+test:ฉฮ
+removed No Vocabs
+['ฉฮ']
+[]

@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\sirisak\\workspace\\_testing\\python\\NLP\\word2vec_gensim\\models\\DNN\\modelDNN.tflearn"
+all_model_checkpoint_paths: "E:\\sirisak\\workspace\\_testing\\python\\NLP\\word2vec_gensim\\models\\DNN\\modelDNN.tflearn"

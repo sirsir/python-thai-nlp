@@ -1,0 +1,10 @@
+intent,sentence
+greeting,สวัสดีครับ
+ask_price_calculation,คิดราคาค่าขนส่งพัสดุยังไง 
+ask_duration,พัสดุมีระยะเวลาในการจัดส่งกี่วัน
+ask_compensation,ถ้าส่งพัสดุไปแล้วเสียหายจะได้รับการชดเชยปะ
+greeting,สวัสดีค่ะ
+ask_price_calculation,ถ้าจะส่งพัสดุคิดราคาไงอะ
+ask_duration,จะได้รับพัสดุในอีกกี่วันอะ
+ask_compensation,ถ้าพัสดุุชำรุดอะจะรับผิดชอบยังไง
+ask_price_calculation,รบกวนสอบถามหน่อยค่าส่งพัสดุต่อชิ้นราคาเท่าไหร่หรอ ?
